@@ -1,5 +1,5 @@
 {
-  "name": "react-sortable-tree",
+  "name": "qls-react-sortable-tree",
   "version": "0.1.15",
   "description": "Drag-and-drop sortable component for nested data and hierarchies",
   "scripts": {
@@ -19,15 +19,6 @@
   "main": "dist/umd/react-sortable-tree.js",
   "files": [
     "dist"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fritz-c/react-sortable-tree"
-  },
-  "homepage": "https://fritz-c.github.io/react-sortable-tree",
-  "bugs": "https://github.com/fritz-c/react-sortable-tree/issues",
-  "authors": [
-    "Chris Fritz"
   ],
   "license": "MIT",
   "dependencies": {
